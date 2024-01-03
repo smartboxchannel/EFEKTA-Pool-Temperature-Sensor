@@ -14,3 +14,5 @@ If you use Home Assistant to upload files to the server, you can use the File Ed
 There are several options for uploading a device converter to the server. The first is uploading via an ftp client. This can be any client, for example filezilla.
 
 To connect to the server, you must enter the IP address, login and password in the appropriate fields of the program and click the “quick connection” button.
+
+![Z2M CONVERTER EFEKTA Pool Temperature Sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Pool-Temperature-Sensor/main/IMAGES/f2d8d708a1152f5e37130.png)
