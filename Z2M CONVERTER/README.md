@@ -31,4 +31,6 @@ After downloading the file (this is usually the hardest part :)), you need to re
 
 Next, find the section - External converters and go to it.
 
+![Z2M CONVERTER EFEKTA Pool Temperature Sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Pool-Temperature-Sensor/main/IMAGES/50e441c9f0153789f9023.png)
+
 
