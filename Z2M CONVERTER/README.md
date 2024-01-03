@@ -1,5 +1,7 @@
 ## External converter for Z2M
 
+Для добавления внешнего конвертера необходимо выполнить «2 шага». Первый — загрузить сам файл конвертера на ваш сервер, а второй — внести информацию в файл конфигурации о внешнем конвертере в zigbee2mqtt.
+
 To add an external converter you need to perform "2 steps". The first is to upload the converter file itself to your server and the second is to enter information into the configuration about the external converter in zigbee2mqtt. 
 
 ### Adding a file to the server.
