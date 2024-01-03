@@ -33,4 +33,6 @@ Next, find the section - External converters and go to it.
 
 ![Z2M CONVERTER EFEKTA Pool Temperature Sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Pool-Temperature-Sensor/main/IMAGES/50e441c9f0153789f9023.png)
 
+Next, you need to scroll down the page and click the “+” button, a new window will appear for entering information, where you need to add the name of your external converter with extensions. for example Pool_Temperature_smart_sensor.js. After that, click on the “Submit” button and then on the “Reload” button at the top of the page.
+
 
