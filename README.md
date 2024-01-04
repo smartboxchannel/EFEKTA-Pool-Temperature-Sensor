@@ -6,6 +6,16 @@
 
 Продажа DIY Устройств - https://t.me/diydevmart
 
+![EFEKTA Pool Temperature Sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Pool-Temperature-Sensor/main/IMAGES/photo_2024-01-03_21-14-06.jpg)
+
+![EFEKTA Pool Temperature Sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Pool-Temperature-Sensor/main/IMAGES/IMG20230808220558.jpg)
+
+![EFEKTA Pool Temperature Sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Pool-Temperature-Sensor/main/IMAGES/photo_2024-01-04_21-52-09.jpg)
+
+![EFEKTA Pool Temperature Sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Pool-Temperature-Sensor/main/IMAGES/IMG20230808211936.jpg)
+
+![EFEKTA Pool Temperature Sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Pool-Temperature-Sensor/main/IMAGES/IMG_20230810_120926.jpg)
+
 ## Установка среды разработки IAR
 
 https://github.com/sigma7i/zigbee-wiki/wiki/zigbee-firmware-install
