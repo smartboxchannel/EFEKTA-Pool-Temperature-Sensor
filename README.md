@@ -1,6 +1,6 @@
 # EFEKTA-Pool-Temperature-Sensor
 
-Проект zigbee датчика температуры для бассейна. Проект разработан на soc сс2530 (радиомомдуль E18-MS1PA2-IPX, E18-MS1PA2-PCB, E18-MS1-PCB)
+Проект zigbee датчика температуры для бассейна. Проект разработан на soc сс2530 (радиомодуль E18-MS1PA2-IPX, E18-MS1PA2-PCB, E18-MS1-PCB)
 
 Телеграм чат DIY Devices - https://t.me/diy_devices
 
@@ -44,17 +44,17 @@ https://diptrace.com/rus/download/download-diptrace/
 
 To add an external converter you need to perform "2 steps". The first is to upload the converter file itself to your server and the second is to enter information into the configuration about the external converter in zigbee2mqtt. 
 
-#### Adding a file to the server.
+#### Добавление файла на сервер.
 
 /UPD
-##### 0 option.
+##### Вариант 0.
 Если вы используете Home Assistant то загрузить файлы на сервер можно воспользовавшись аддоном File editor (самый простой вариант).
 
-####№ 0 option.
+##### 0 option.
 If you use Home Assistant to upload files to the server, you can use the File Editor addon (the easiest option).
 /
 
-##### 1 option.
+##### Вариант 1.
 
 Для загрузки конвертера для устройсва на сервер УД есть несколько вариантов. Первое это загрузка через ftp клиент. Это может быть любой клиент, например filezilla.
 
@@ -80,7 +80,7 @@ Having gone to the desired folder, simply drag the converter there from the left
 
 If you use Home Assistant, then you can install the Samba plugin, then you will have a network folder created in you can simply move the desired file through the standard Windows Explorer. Instructions for installing Samba are here http://psenyukov.ru/%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D0%BC-%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BF%D0%BA%D0%B8-%D0%BD%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5-hassos-home-assistant-%D1%81/.
 
-#### Adding information about the converter.
+#### Добавление записи о внешнем конвертере.
 
 После загрузки файла (это самая трудная часть обычно :)), нужно прописать данные о внешнем конвертере в конфигурацию zigbee2mqtt. Для этого вам нужно перейти в вэбинтерфейс zigbee2mqtt и перейти в раздел - 'настройки".
 
