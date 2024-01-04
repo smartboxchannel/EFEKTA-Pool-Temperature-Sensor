@@ -1,4 +1,4 @@
-Dам понадобится программа SmartRF Flash Programmer версии 1. Так же вам понадобится CC Debugger или Smart RF04E(рекомендуется из-за простоты подключения).
+Вам понадобится программа SmartRF Flash Programmer версии 1. Так же вам понадобится CC Debugger или Smart RF04E(рекомендуется из-за простоты подключения).
 
 #### Процесс прошивки с помощью SmartRF Flash Programmer v1
 
