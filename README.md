@@ -7,3 +7,7 @@
 https://github.com/sigma7i/zigbee-wiki/wiki/zigbee-firmware-install
 
 https://zigdevwiki.github.io/Begin/IAR_install/
+
+### Программа для разработки печатных плат - DipTrace
+
+https://diptrace.com/rus/download/download-diptrace/
