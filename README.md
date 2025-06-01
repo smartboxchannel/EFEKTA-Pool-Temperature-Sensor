@@ -6,6 +6,8 @@
 
 Продажа DIY Устройств - https://t.me/diydevmart
 
+Видео инструкция, Ютуб канал SGHome - https://youtu.be/Cri-8IdNB2Q
+
 ![EFEKTA Pool Temperature Sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Pool-Temperature-Sensor/main/IMAGES/photo_2024-01-03_21-14-06.jpg)
 
 ![EFEKTA Pool Temperature Sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Pool-Temperature-Sensor/main/IMAGES/IMG20230808220558.jpg)
